@@ -1,10 +1,11 @@
-<a href="https://www.linkedin.com/in/viniciusfazolaro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-Hello world! My name is Vinícius!! <br>
+###Hello world! My name is Vinícius!! <br>
 Some facts about me: <br>
 I'm 19 years old. <br>
 I started programming in 2023, due to the college! <br>
+I'm a student of web development.
 I'm a backend developer with knowledge in the following languages: <br>
+
+## Languages
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -17,4 +18,11 @@ I'm a backend developer with knowledge in the following languages: <br>
 
 <br><br>
 
+## Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusfazolaro)](https://github.com/anuraghazra/github-readme-stats)
+
+<br><br>
+
+## Social Media
+<a href="https://www.linkedin.com/in/viniciusfazolaro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
