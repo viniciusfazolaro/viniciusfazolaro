@@ -4,7 +4,7 @@ Hello world! My name is Vinícius!!
 Some facts about me:
 I'm 19 years old.
 I started programming in 2023, due to the college!
-I'm a backend developer with knowledge in the following languages:
+I'm a backend developer with knowledge in the following languages: <br>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
