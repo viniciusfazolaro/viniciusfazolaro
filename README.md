@@ -16,8 +16,8 @@ I'm a backend developer with knowledge in the following languages: <br>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=viniciusfazolaro&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=viniciusfazolaro&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=viniciusfazolaro&theme=dark&hide_border=false&include_all_commits=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=viniciusfazolaro&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfazolaro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## Social Media
