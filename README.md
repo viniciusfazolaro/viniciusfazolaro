@@ -1,4 +1,4 @@
-### Hello world! I'm Vinícius!! <br>
+### Hello world! I'm Vinícius!!
 Some facts about me: <br>
 I'm 19 years old. <br>
 I started programming in 2023, due to the college! <br>
