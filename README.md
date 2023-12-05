@@ -21,4 +21,4 @@ I'm a backend developer with knowledge in the following languages: <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfazolaro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## Social Media
-<a href="https://www.linkedin.com/in/viniciusfazolaro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/viniciusfazolaro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
