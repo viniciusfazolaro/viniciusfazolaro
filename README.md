@@ -1,6 +1,5 @@
 ### Hello world! I'm Vinícius!!
 Some facts about me: <br>
-I'm 19 years old. <br>
 I started programming in 2023, due to the college! <br>
 I'm a student of web development.
 I'm a backend developer with knowledge in the following languages: <br>
